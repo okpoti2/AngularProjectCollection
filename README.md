@@ -1,2 +1,2 @@
 # AngularProjectCollection
-A collection of reusable Angular projects
+A collection of reusable and extensible Angular projects.
